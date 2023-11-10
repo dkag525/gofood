@@ -17,7 +17,6 @@ function Home() {
         <Card />
       </div>
       <div>
-        abcd
         <Footer />
       </div>
     </div>
